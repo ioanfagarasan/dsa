@@ -1,0 +1,13 @@
+obj/project.nuget.cache
+.vscode/launch.json
+.vscode/tasks.json
+obj/dsa.csproj.nuget.dgspec.json
+obj/dsa.csproj.nuget.g.props
+obj/dsa.csproj.nuget.g.targets
+obj/project.assets.json
+obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+obj/Debug/net5.0/dsa.AssemblyInfo.cs
+obj/Debug/net5.0/dsa.AssemblyInfoInputs.cache
+obj/Debug/net5.0/dsa.assets.cache
+obj/Debug/net5.0/dsa.csproj.AssemblyReference.cache
+obj/Debug/net5.0/dsa.GeneratedMSBuildEditorConfig.editorconfig
