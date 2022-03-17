@@ -11,3 +11,16 @@ obj/Debug/net5.0/dsa.AssemblyInfoInputs.cache
 obj/Debug/net5.0/dsa.assets.cache
 obj/Debug/net5.0/dsa.csproj.AssemblyReference.cache
 obj/Debug/net5.0/dsa.GeneratedMSBuildEditorConfig.editorconfig
+bin/Debug/net5.0/dsa.deps.json
+bin/Debug/net5.0/dsa.dll
+bin/Debug/net5.0/dsa.pdb
+bin/Debug/net5.0/dsa.runtimeconfig.dev.json
+bin/Debug/net5.0/dsa.runtimeconfig.json
+bin/Debug/net5.0/ref/dsa.dll
+obj/Debug/net5.0/dsa.csproj.CoreCompileInputs.cache
+obj/Debug/net5.0/dsa.csproj.FileListAbsolute.txt
+obj/Debug/net5.0/dsa.csprojAssemblyReference.cache
+obj/Debug/net5.0/dsa.dll
+obj/Debug/net5.0/dsa.genruntimeconfig.cache
+obj/Debug/net5.0/dsa.pdb
+obj/Debug/net5.0/ref/dsa.dll
